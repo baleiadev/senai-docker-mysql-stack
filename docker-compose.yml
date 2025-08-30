@@ -26,4 +26,4 @@ services:
       - db
 
 volumes:
-  db_data:
+  p_data:
